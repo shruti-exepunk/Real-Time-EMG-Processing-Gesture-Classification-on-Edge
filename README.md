@@ -29,4 +29,3 @@ pyserial
 - No cross-subject validation performed
 - No live hardware-in-the-loop validation completed
 - Fixed hyperparameters - no grid search applied
-- 
